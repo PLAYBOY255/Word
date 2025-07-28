@@ -1,2 +1,1 @@
-# Word
-My first GitHub project 
+## my fisrt edit on github
